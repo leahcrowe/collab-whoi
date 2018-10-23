@@ -1,5 +1,5 @@
 ---
-title: "index.rmd"
+title: "Our brand new website"
 author: "Leah Crowe"
 date: "October 23, 2018"
 output: html_document
