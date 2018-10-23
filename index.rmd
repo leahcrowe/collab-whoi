@@ -5,7 +5,7 @@ date: "October 23, 2018"
 output: html_document
 ---
 
-This is the coolest website in the entire world :whale: :whale: :whale:
+This is the coolest website in the entire world https://apps.timwhitlock.info/unicode/inspect/hex/1F433
 
 ```{r cars}
 summary(cars)
